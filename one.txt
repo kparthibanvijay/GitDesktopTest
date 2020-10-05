@@ -1,1 +1,4 @@
-one from local changed
+<<<<<<< HEAD
+=======
+one from repo
+>>>>>>> 69028ebc403ad02a71803e25e3a6bd00e17bb76b
