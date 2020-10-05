@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 one from local
-=======
-one from repo
->>>>>>> 710b8e974b594aededf6fd8f56523c9d2b37e765
